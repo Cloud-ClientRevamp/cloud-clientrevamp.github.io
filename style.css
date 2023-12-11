@@ -42,7 +42,7 @@ h2 {
 }
 
 .logobg::after {
-    content: url(https://sol-client.github.io/logo.png);
+    content: url(https://cloud-clientrevamp.github.io/logo.png);
     position: absolute;
     top: 0;
     left: 0;
