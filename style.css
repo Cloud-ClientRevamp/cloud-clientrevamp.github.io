@@ -55,7 +55,7 @@ h2 {
 
 .linear-wipe {
     text-align: center;
-    background: linear-gradient(90deg, #ffffff, #ffffff); /* Set the gradient to white */
+    background: #ffffff; /* Set the background to white */
     color: white !important; /* Change the text color to white */
     background-clip: text;
     -webkit-background-clip: text;
